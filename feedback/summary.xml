@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><evaluation>
+  <exam>b-vsa-ls23-projekt-2</exam>
+  <student>
+    <aisId>104264</aisId>
+    <name>Miroslav Malíšek</name>
+    <email>xmalisek@stuba.sk</email>
+    <github>MiroslavMalisek</github>
+  </student>
+  <testRuns>
+    <testRun>
+      <id>testRun-2023-05-27T11-51-08.825</id>
+      <totalRun>45</totalRun>
+      <success>12</success>
+      <failure>33</failure>
+      <error>0</error>
+      <skipped>0</skipped>
+      <points>4</points>
+      <bonus>false</bonus>
+      <duration>PT1M6.331S</duration>
+    </testRun>
+    <testRun>
+      <id>testRun-2023-05-27T11-52-15.159</id>
+      <totalRun>3</totalRun>
+      <success>0</success>
+      <failure>0</failure>
+      <error>0</error>
+      <skipped>3</skipped>
+      <points>0</points>
+      <bonus>true</bonus>
+      <duration>PT10.25S</duration>
+    </testRun>
+  </testRuns>
+  <totalPoints>4</totalPoints>
+  <notes/>
+  <testDuration>PT1M16.581S</testDuration>
+</evaluation>
